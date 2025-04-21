@@ -282,7 +282,11 @@ button {
 
 
 .icon {
-    fill: #F4F4FD;
+    fill: var(--cloud);
+}
+
+:root {
+    --cloud: #f4f4fd;
 }
 
 .icon-li {
