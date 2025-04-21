@@ -286,8 +286,7 @@ button {
 
 
 .icon {
-    color: var(--icon-color);
-    fill: currentColor;
+    fill: var(--icon-color);
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -585,6 +584,6 @@ img {
 }
 
 .footer-icon {
-    fill: #f4f4fd;
+    fill: var(--icon-color);
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
