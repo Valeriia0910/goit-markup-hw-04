@@ -311,10 +311,6 @@ button {
     background-color: #404bbf;
 }
 
-.icon-link:hover .icon,
-.icon-link:focus .icon {
-    fill: #fff;
-}
 
 .title-three {
     color: #2e2f42;
